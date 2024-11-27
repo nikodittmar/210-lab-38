@@ -1,3 +1,4 @@
+// COMSC 210 | Lab 38 | Niko Dittmar
 #include <iostream>
 #include <fstream>
 #include "StringBinaryTree.h"
